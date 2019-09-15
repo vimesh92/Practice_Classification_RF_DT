@@ -8,6 +8,5 @@
   c. SMOTE
 2. Used Grid Search for Hyper-parameter tuning for Random Forest
 3. False Negatives decreased drastically in Random Forest for downsampled training set
-4. However Accuracy for Decsion Tree was much better than Random Forest
 
 
